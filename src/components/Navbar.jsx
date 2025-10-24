@@ -40,7 +40,7 @@ export default function Navbar() {
   return (
     <div
       ref={NavRef}
-      className="bg-[#2a2623] text-[#f4efe8] border-t border-[#f4efe8]/30 sticky top-0 z-20"
+      className="bg-[#2E2A27] text-[#f4efe8] border-t border-b-2 border-[#f4efe8]/30 sticky top-0 z-20"
     >
       <div className="flex items-center justify-between px-6 py-4 text-sm font-semibold tracking-wide relative w-full">
         {/* LEFT LINKS */}

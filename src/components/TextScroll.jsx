@@ -32,7 +32,7 @@ export default function TextScroll() {
   }, []);
 
   return (
-    <section className="text-container h-screen bg-[#1f1b18] text-[#e8e2da] flex flex-col justify-center items-center overflow-hidden">
+    <section className="text-container h-screen bg-[#2E2A27]  text-[#e8e2da] flex flex-col justify-center items-center overflow-hidden">
       <div
         className="text-center leading-[0.9] 
  font-bold space-y-[10vh]"
